@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/expressions/expressions.iml" filepath="$PROJECT_DIR$/expressions/expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/guiIntro/guiIntro.iml" filepath="$PROJECT_DIR$/guiIntro/guiIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/mathClass/mathClass.iml" filepath="$PROJECT_DIR$/mathClass/mathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randomNums/randomNums.iml" filepath="$PROJECT_DIR$/randomNums/randomNums.iml" />
       <module fileurl="file://$PROJECT_DIR$/swapTwoVariable/swapTwoVariable.iml" filepath="$PROJECT_DIR$/swapTwoVariable/swapTwoVariable.iml" />
       <module fileurl="file://$PROJECT_DIR$/userInput/userInput.iml" filepath="$PROJECT_DIR$/userInput/userInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/variable/variable.iml" filepath="$PROJECT_DIR$/variable/variable.iml" />
