@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Projects.iml" filepath="$PROJECT_DIR$/Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/swapTwoVariable/swapTwoVariable.iml" filepath="$PROJECT_DIR$/swapTwoVariable/swapTwoVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userInput/userInput.iml" filepath="$PROJECT_DIR$/userInput/userInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/variable/variable.iml" filepath="$PROJECT_DIR$/variable/variable.iml" />
     </modules>
   </component>
