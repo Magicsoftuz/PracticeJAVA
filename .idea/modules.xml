@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays2D/arrays2D.iml" filepath="$PROJECT_DIR$/arrays2D/arrays2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/expressions/expressions.iml" filepath="$PROJECT_DIR$/expressions/expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forEach/forEach.iml" filepath="$PROJECT_DIR$/forEach/forEach.iml" />
       <module fileurl="file://$PROJECT_DIR$/forLoop/forLoop.iml" filepath="$PROJECT_DIR$/forLoop/forLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/guiIntro/guiIntro.iml" filepath="$PROJECT_DIR$/guiIntro/guiIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/ifStatements/ifStatements.iml" filepath="$PROJECT_DIR$/ifStatements/ifStatements.iml" />
