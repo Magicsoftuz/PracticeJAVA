@@ -25,7 +25,7 @@ public class Main {
                 System.out.println("Today is Sunday!");
                 break;
             default:
-                System.out.println("It is not week day");
+                System.out.println("It is not week dat");
         }
 
     }
