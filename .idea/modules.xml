@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/forLoop/forLoop.iml" filepath="$PROJECT_DIR$/forLoop/forLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/guiIntro/guiIntro.iml" filepath="$PROJECT_DIR$/guiIntro/guiIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/ifStatements/ifStatements.iml" filepath="$PROJECT_DIR$/ifStatements/ifStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheretence/inheretence.iml" filepath="$PROJECT_DIR$/inheretence/inheretence.iml" />
       <module fileurl="file://$PROJECT_DIR$/logicalOperators/logicalOperators.iml" filepath="$PROJECT_DIR$/logicalOperators/logicalOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/mathClass/mathClass.iml" filepath="$PROJECT_DIR$/mathClass/mathClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
