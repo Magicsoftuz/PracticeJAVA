@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrayList2D/arrayList2D.iml" filepath="$PROJECT_DIR$/arrayList2D/arrayList2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays2D/arrays2D.iml" filepath="$PROJECT_DIR$/arrays2D/arrays2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructor/constructor.iml" filepath="$PROJECT_DIR$/constructor/constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/expressions/expressions.iml" filepath="$PROJECT_DIR$/expressions/expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/finalKeyword/finalKeyword.iml" filepath="$PROJECT_DIR$/finalKeyword/finalKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/forEach/forEach.iml" filepath="$PROJECT_DIR$/forEach/forEach.iml" />
