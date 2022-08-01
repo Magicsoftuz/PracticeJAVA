@@ -19,11 +19,13 @@
       <module fileurl="file://$PROJECT_DIR$/mathClass/mathClass.iml" filepath="$PROJECT_DIR$/mathClass/mathClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/nestedLoops/nestedLoops.iml" filepath="$PROJECT_DIR$/nestedLoops/nestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectPassing/objectPassing.iml" filepath="$PROJECT_DIR$/objectPassing/objectPassing.iml" />
       <module fileurl="file://$PROJECT_DIR$/objects/objects.iml" filepath="$PROJECT_DIR$/objects/objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/overloadedConstructor/overloadedConstructor.iml" filepath="$PROJECT_DIR$/overloadedConstructor/overloadedConstructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/overloadedMethods/overloadedMethods.iml" filepath="$PROJECT_DIR$/overloadedMethods/overloadedMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/printf/printf.iml" filepath="$PROJECT_DIR$/printf/printf.iml" />
       <module fileurl="file://$PROJECT_DIR$/randomNums/randomNums.iml" filepath="$PROJECT_DIR$/randomNums/randomNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticKeyword/staticKeyword.iml" filepath="$PROJECT_DIR$/staticKeyword/staticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/stringMethods/stringMethods.iml" filepath="$PROJECT_DIR$/stringMethods/stringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/swapTwoVariable/swapTwoVariable.iml" filepath="$PROJECT_DIR$/swapTwoVariable/swapTwoVariable.iml" />
       <module fileurl="file://$PROJECT_DIR$/toStringMethod/toStringMethod.iml" filepath="$PROJECT_DIR$/toStringMethod/toStringMethod.iml" />
